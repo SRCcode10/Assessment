@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
+	<classpathentry kind="lib" path="C:/Users/Sanjit Chhabra/Downloads/log4j-jcl-2.17.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sanjit Chhabra/Downloads/log4j-core-2.17.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sanjit Chhabra/Downloads/log4j-api-2.17.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sanjit Chhabra/Downloads/commons-logging-1.2 (1).jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sanjit Chhabra/Downloads/commons-configuration2-2.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sanjit Chhabra/Downloads/commons-text-1.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sanjit Chhabra/Downloads/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sanjit Chhabra/Downloads/commons-lang3-3.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sanjit Chhabra/Downloads/commons-collections4-4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sanjit Chhabra/Downloads/commons-beanutils-1.9.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sanjit Chhabra/OneDrive/Documents/JAR files/mysql-connector-java-8.0.13.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
