@@ -12,6 +12,7 @@ public class MainPassport {
 		}
 		Application a2 = new Application("Jack", 33, "Indian", "No");
 		a2.checkcredentials();
+		System.out.println(a2);
 
 	}
 
